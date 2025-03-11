@@ -1,6 +1,7 @@
 # 代理补充列表
 
 # 域名后缀匹配
+DOMAIN-KEYWORD,temby,DIRECT
+
+# 域名后缀匹配
 DOMAIN-SUFFIX,985211.link
-
-
