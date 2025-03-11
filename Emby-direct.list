@@ -3,5 +3,8 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,temby
 
+# IP段匹配
+IP-CIDR,h150.138.89.202/32
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,985211.link
