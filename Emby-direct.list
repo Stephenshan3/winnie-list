@@ -4,7 +4,11 @@
 DOMAIN-KEYWORD,temby
 
 # IP段匹配
-IP-CIDR,150.138.89.202/32
+
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,985211.link
+DOMAIN-SUFFIX,a.emby.my
+DOMAIN-SUFFIX,b.emby.my
+DOMAIN-SUFFIX,c.emby.my
+DOMAIN-SUFFIX,hinet.vfing.de
+DOMAIN-SUFFIX,temby856.285286.xyz
